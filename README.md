@@ -1,4 +1,14 @@
-## Hi there 👋
+## Heyya yall, i'm theo
+To sum it up, i love low level programming, and just working with low level languages in general (systems langs, ils and irs).
+
+#### a few projects (rn only one, and i stopped developing it because i have almost no time)
+- libelx (a library and a runtime bundled in one. its just an std and libc implementation)
+
+- plun (not plublic yet, just a sneak peek)
+
+### What I use
+-  Dell XPS 15 -> void linux
+-  Lenovo X1 Carbon -> FreeBSD
 
 <!--
 **weanty0/weanty0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
